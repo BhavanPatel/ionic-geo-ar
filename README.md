@@ -1,5 +1,4 @@
-# ionic-seed
-Simple Structured Ionic-v1 Seed
+# ionic-geo-ar
+Simple Structured Ionic-v1 ionic augmented reality project based on geolocations
 
-
-git clone and ionic serve
+NOTE: Under Development

@@ -1,7 +1,7 @@
 {
-  "name": "ionic-seed",
-  "version": "1.1.1",
-  "description": "ionic-seed: An Ionic project",
+  "name": "ionic-geo-ar",
+  "version": "0.0.1",
+  "description": "ionic-geo-ar: An Ionic Augmented Reality Project Based on GeoLocation",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",

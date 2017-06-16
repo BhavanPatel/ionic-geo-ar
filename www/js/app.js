@@ -21,5 +21,10 @@ angular.module('app', [
       if (window.StatusBar) {
         StatusBar.styleDefault();
       }
+
+      var video = document.getElementById('video-bg');
+      video.addEventListner('canplay',function(){
+        video.play();
+      });
     });
 });
